@@ -2,7 +2,7 @@
 
 I'm a passionate systems programmer and developer, building tools that make development and security easier — especially with the power of **Rust**.
 
-- 🛠️ I'm currently building **open-source tools** focused on system-level programming and API security.
+- 🛠️ I'm currently building **open-source tools** focused on system-level programming and distributed systems.
 - 🤝 I'm **open to collaborate** on open-source Rust projects.
 - 💬 Ask me about **system programming**, **distributed security system**, or **problem-solving**.
 
