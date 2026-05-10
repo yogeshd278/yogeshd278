@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Yogesh Dubey
 
-I'm a passionate systems programmer and developer, building tools that make development and security easier — especially with the power of **Rust**.
+I'm a passionate systems programmer and developer, building tools that make development and security easier — especially with the power of **C++**, **Golang** and **Rust**.
 
 - 🛠️ I'm currently building **open-source tools** focused on system-level programming and distributed systems.
-- 🤝 I'm **open to collaborate** on open-source Rust projects.
-- 💬 Ask me about **system programming**, **distributed security system**, or **problem-solving**.
+- 🤝 I'm **open to collaborate** on open-source **Golang** projects.
+- 💬 Ask me about **system design pattern**, **distributed security system**, or **problem-solving**.
 
 ---
 
@@ -30,8 +30,8 @@ You can find me and my work here:
 
 I'm open to collaboration in:
 
-- 🔐 Security Systems
-- ⚙️ Systems Programming (Rust)
+- 🔐 Security Systems, Distributed Systems
+- ⚙️ Systems Programming (C++, Golang & Rust)
 - 🔍 Payload Inspection & Automation
 - 🧪 CLI Tools for Developers
 
