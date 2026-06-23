@@ -1,43 +1,84 @@
 # 👋 Hi, I'm Yogesh Dubey
 
-I'm a passionate systems programmer and developer, building tools that make development and security easier — especially with the power of **C++**, **Golang** and **Rust**.
+I'm a backend and systems engineer focused on building **developer tools, security automation, and distributed systems** using **Golang, C++, and Rust**.
 
-- 🛠️ I'm currently building **open-source tools** focused on system-level programming and distributed systems.
-- 🤝 I'm **open to collaborate** on open-source **Golang** projects.
-- 💬 Ask me about **system design pattern**, **distributed security system**, or **problem-solving**.
+I enjoy working close to the system — designing scalable architectures, building developer-focused tools, and solving complex engineering problems around performance, reliability, and security.
+
+---
+
+## 🚀 What I'm Building
+
+Currently exploring and building open-source projects around:
+
+### 🔐 Code Security & Developer Productivity
+
+Building a security-focused developer tool that integrates directly into CI/CD pipelines and helps teams improve code quality before production.
+
+The tool analyzes codebases to identify:
+
+- 🔍 Duplicate code and maintainability issues
+- 🐞 Potential defects and risky patterns
+- ⚠️ Security threats and vulnerabilities
+- 📦 Dependency risks and outdated packages
+- 📊 Automated code review reports for developers
+
+The goal is to make security analysis simple, automated, and part of the developer workflow.
+
+---
+
+## 🛠️ Areas I Like Working On
+
+- 🔐 Application Security & Security Automation
+- ⚙️ Backend Systems & Distributed Architecture
+- 🧩 Developer Tools & CLI Applications
+- 🚀 Performance Optimization
+- 🌐 Cloud-Native Systems
+- 🧵 Systems Programming (Golang, C++, Rust)
+
+---
+
+## 💻 Technologies I Work With
+
+**Languages**
+- Golang
+- C++
+- Rust
+- Python
+
+**Backend & Systems**
+- Distributed Systems
+- Microservices
+- API Design
+- Event-driven Architecture
+- Concurrency Programming
+
+**Security**
+- Code Analysis
+- Static Analysis
+- Dependency Scanning
+- Secure Development Practices
+
+---
+
+## 🤝 Open Source & Collaboration
+
+I'm interested in collaborating on:
+
+- Golang open-source projects
+- Developer productivity tools
+- Security engineering projects
+- Distributed systems
+
+If you are building something around backend systems, security, or developer tools — let's connect.
 
 ---
 
 ## 🌍 Let's Connect
 
-You can find me and my work here:
-
-- 🐦 [Twitter @dube278](https://twitter.com/dube278)
-- 🐱 [GitHub @yogeshd278](https://github.com/yogeshd278)
-- 💼 [LinkedIn @yogeshd278](https://linkedin.com/in/yogeshd278)
+🐦 Twitter: https://twitter.com/dube278  
+🐱 GitHub: https://github.com/yogeshd278  
+💼 LinkedIn: https://linkedin.com/in/yogeshd278
 
 ---
 
-## 🔗 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshd278)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dube278)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshd278)
-
----
-
-## 🚀 Let's Build Something Together!
-
-I'm open to collaboration in:
-
-- 🔐 Security Systems, Distributed Systems
-- ⚙️ Systems Programming (C++, Golang & Rust)
-- 🔍 Payload Inspection & Automation
-- 🧪 CLI Tools for Developers
-
-Feel free to reach out or open a discussion on GitHub!
-
----
-
-⭐ *"Open source isn't just code — it's community, contribution, and collaboration."*
-
+⭐ Building software is not just about writing code — it's about creating tools that help engineers build better systems.
