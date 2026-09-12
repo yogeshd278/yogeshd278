@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yogesh Dubey
 
-I'm a backend and systems engineer focused on building **developer tools, security automation, and distributed systems** using **Golang, C++, and Rust**.
+I'm a backend and systems engineer focused on building **developer tools, security automation, and distributed systems** using **Golang and Python**.
 
 I enjoy working close to the system — designing scalable architectures, building developer-focused tools, and solving complex engineering problems around performance, reliability, and security.
 
@@ -41,9 +41,8 @@ The goal is to make security analysis simple, automated, and part of the develop
 
 **Languages**
 - Golang
-- C++
-- Rust
 - Python
+- NodeJs
 
 **Backend & Systems**
 - Distributed Systems
